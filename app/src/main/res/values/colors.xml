@@ -9,4 +9,6 @@
     <color name="sunset_sky">#EC8100</color>
     <color name="night_sky">#05192E</color>
     <color name="blue_sea">#224869</color>
+    <color name="pink_fish">#F0C7C7</color>
+    <color name="blue_fish">#C7C7F0</color>
 </resources>

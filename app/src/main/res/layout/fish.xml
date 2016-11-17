@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="4dp"
+        android:rotation="80"
+        android:src="@drawable/fish_tail"/>
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="4dp"
+        android:rotation="-80"
+        android:src="@drawable/fish_tail"/>
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="10dp"
+        android:rotation="-30"
+        android:src="@drawable/fish_tail"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:src="@drawable/fish_body"/>
+
+</FrameLayout>
